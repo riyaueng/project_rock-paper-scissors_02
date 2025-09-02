@@ -7,7 +7,7 @@ export default function SectionScores() {
       <section className="section_scores">
         <div className="wrapper_box wrapper_scores">
           <div className="wrapper_chosen_icons">
-            <div className="chosen_icon your_choice"></div>
+            <div className="chosen_icon your_choice">✊</div>
             <p>You</p>
           </div>
 
@@ -17,7 +17,7 @@ export default function SectionScores() {
             <p id="pc_score"></p>
           </div>
           <div className="wrapper_chosen_icons">
-            <div className="chosen_icon pc_choice"></div>
+            <div className="chosen_icon pc_choice">✊</div>
             <p>PC</p>
           </div>
         </div>
