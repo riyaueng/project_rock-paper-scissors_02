@@ -1,0 +1,22 @@
+.wrapper_choice {
+  margin: 0 auto;
+  padding: 1rem;
+  width: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.btn_icon {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 10rem;
+  width: 4rem;
+  height: 4rem;
+}
+
+.wrapper_choice p {
+  font-size: 2rem;
+  margin: 0;
+}

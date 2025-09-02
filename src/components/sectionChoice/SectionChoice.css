@@ -1,0 +1,40 @@
+.section_choice h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.section_choice p {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  margin: 1rem;
+}
+
+.section_choice a {
+  color: #d4b742;
+}
+
+.your_choice,
+.pc_choice {
+  font-size: 2rem;
+}
+
+.emoji_hand {
+  display: none;
+}
+
+.emoji_hand p {
+  font-size: 1.8rem;
+  margin: 0;
+  animation: bounce 0.7s 0.5s ease-in-out infinite alternate;
+  margin-top: 1rem;
+}
+
+@keyframes bounce {
+  10% {
+    transfrom: translateY(0);
+  }
+
+  100% {
+    transform: translateY(-0.4rem);
+  }
+}

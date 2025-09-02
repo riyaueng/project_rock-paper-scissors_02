@@ -1,0 +1,14 @@
+.section_rounds h3 {
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.div_choose_rounds {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.wrapper_radio_btn input {
+  margin-right: 0.4rem;
+}
